@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: basic
+  chapters:
+  - file: basic/Perceptron_and_Text_Classification.ipynb
+  - file: basic/Logistic_Regression.ipynb
+  - file: basic/Logistic_Regression_for_Text_Classification.ipynb
+  - file: basic/Neural_Networks_and_Deep_Learning_Practice.ipynb
+  - file: basic/Neural_Networks_for_Text_Classification.ipynb
+  - file: basic/Text_Classification_with_Word_Embeddings.ipynb
+  - file: basic/Recurrent_Neural_Networks_Principles.ipynb
+  - file: basic/Transformer_and_Contextualized_Embedding.ipynb
+  - file: basic/Hugging_Face_Transformer_Tutorial.ipynb
+  - file: basic/Encoder_Decoder_and_Evaluation_Methods.ipynb
+  - file: basic/NLP_Applications_and_Neural_Network_Architectures.ipynb
